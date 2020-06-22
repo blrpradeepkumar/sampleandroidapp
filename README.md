@@ -4,7 +4,7 @@ A sample android automation project
 # Some information regarding the framework.
 The framework is developed using Page Object Model. 
 The test data is read from an excel file. 
-The test suite is maintained in a testNg.xml file.
+The test suite is maintained in a testng.xml file.
 It generates an extent report after all the tests have been completed. It captures screenshots for all the failed tests.
 
 # OOPS implementation
