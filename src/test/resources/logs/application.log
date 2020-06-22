@@ -1,0 +1,13 @@
+22/06/2020 09:39:48 devpinoyLogger Application found at locationE:\Pradeeps-Workspace\androidapp\src\test\resources\application
+22/06/2020 09:39:48 devpinoyLogger The device name is TA9330EAE1
+22/06/2020 09:39:48 devpinoyLogger The orientation is : PORTRAIT
+22/06/2020 09:40:26 devpinoyLogger Application launched
+22/06/2020 09:40:27 devpinoyLogger The test execution has started : launchingApplication
+22/06/2020 09:40:28 devpinoyLogger On username prompt page
+22/06/2020 09:40:35 devpinoyLogger Username entered is : sample@abc.com
+22/06/2020 09:40:35 devpinoyLogger The test execution has started : userNamePage
+22/06/2020 09:40:36 devpinoyLogger On password prompt page
+22/06/2020 09:41:04 devpinoyLogger The test script has failed : passwordPage , Capturing screenshot
+22/06/2020 09:41:05 devpinoyLogger The test script has been skipped : homePageValidation
+22/06/2020 09:41:05 devpinoyLogger The test script has been skipped : searchForProduct
+22/06/2020 09:41:06 devpinoyLogger The test script has been skipped : selectedProduct

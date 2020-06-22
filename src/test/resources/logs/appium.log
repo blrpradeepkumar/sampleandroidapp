@@ -1,0 +1,43 @@
+09:39:48,098 DEBUG devpinoyLogger:50 - Application found at locationE:\Pradeeps-Workspace\androidapp\src\test\resources\application
+09:39:48,118 DEBUG devpinoyLogger:54 - The device name is TA9330EAE1
+09:39:48,119 DEBUG devpinoyLogger:60 - The orientation is : PORTRAIT
+09:40:26,135 DEBUG devpinoyLogger:35 - Application launched
+09:40:27,380 DEBUG devpinoyLogger:68 - The test execution has started : launchingApplication
+09:40:27,509 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+09:40:27,513 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+09:40:27,520 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+09:40:27,524 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+09:40:27,525 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Sandeep/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+09:40:28,704 DEBUG devpinoyLogger:49 - On username prompt page
+09:40:35,976 DEBUG devpinoyLogger:58 - Username entered is : sample@abc.com
+09:40:35,985 DEBUG devpinoyLogger:68 - The test execution has started : userNamePage
+09:40:35,987 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+09:40:35,994 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+09:40:35,996 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+09:40:36,002 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+09:40:36,003 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Sandeep/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+09:40:36,225 DEBUG devpinoyLogger:68 - On password prompt page
+09:41:04,602 DEBUG devpinoyLogger:31 - The test script has failed : passwordPage , Capturing screenshot
+09:41:05,731 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+09:41:05,732 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+09:41:05,733 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+09:41:05,734 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+09:41:05,734 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Sandeep/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+09:41:05,856 DEBUG devpinoyLogger:48 - The test script has been skipped : homePageValidation
+09:41:05,857 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+09:41:05,858 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+09:41:05,859 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+09:41:05,861 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+09:41:05,861 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Sandeep/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+09:41:05,987 DEBUG devpinoyLogger:48 - The test script has been skipped : searchForProduct
+09:41:05,988 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+09:41:05,989 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+09:41:05,990 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+09:41:05,991 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+09:41:05,992 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Sandeep/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+09:41:06,104 DEBUG devpinoyLogger:48 - The test script has been skipped : selectedProduct
+09:41:06,105 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+09:41:06,106 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+09:41:06,108 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+09:41:06,110 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+09:41:06,110 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Sandeep/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"

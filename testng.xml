@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Amazon application Test Suite">
+	<listeners>
+		<listener class-name="com.amazon.utilities.Listener" />
+	</listeners>
+	<test thread-count="5" name="Application Tests">
+		<classes>
+			<class name="com.amazon.test.ProductSearchTest" />
+		</classes>
+	</test> <!-- Test -->
+</suite> <!-- Suite -->

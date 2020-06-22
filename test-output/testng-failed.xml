@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Amazon application Test Suite]">
+  <listeners>
+    <listener class-name="com.amazon.utilities.Listener"/>
+  </listeners>
+  <test thread-count="5" name="Application Tests(failed)">
+    <classes>
+      <class name="com.amazon.test.ProductSearchTest">
+        <methods>
+          <include name="homePageValidation"/>
+          <include name="searchForProduct"/>
+          <include name="initialize"/>
+          <include name="launchingApplication"/>
+          <include name="passwordPage" invocation-numbers="0"/>
+          <include name="stopTheServer"/>
+          <include name="userNamePage"/>
+          <include name="selectedProduct"/>
+        </methods>
+      </class> <!-- com.amazon.test.ProductSearchTest -->
+    </classes>
+  </test> <!-- Application Tests(failed) -->
+</suite> <!-- Failed suite [Amazon application Test Suite] -->
