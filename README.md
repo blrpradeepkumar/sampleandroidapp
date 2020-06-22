@@ -15,5 +15,7 @@ It generates an extent report after all the tests have been completed. It captur
 
 - Abstraction and Polymorphism: The Product details like title and price have been declared in an interface and it is implemented in the Cart Page. The child class overrides the methods and implements them.
 
-Extent reports can be found at - androidapp/target/surefire-reports/html/extent.html
-TestNG reports can be found at - androidapp/test-output/emailable-report.html
+# Reporting
+
+- Extent reports can be found at - androidapp/target/surefire-reports/html/extent.html
+- TestNG reports can be found at - androidapp/test-output/emailable-report.html
